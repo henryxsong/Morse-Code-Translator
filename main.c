@@ -20,6 +20,10 @@ int main(){
     printf("%s\n", "Welcome to my Morse Code Translator!");
     printf("%s\n", "Please enter a string to translate:");
 
+    // while(gets()){
+    //     printf("%s\n", "Please enter a string to translate:");
+    // }
+
     printf("\n");
     return 0;
 }
