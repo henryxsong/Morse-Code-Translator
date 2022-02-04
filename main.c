@@ -3,7 +3,10 @@
 #include <string.h>
 
 int main(){
-    char *str = "Hello World";
-    printf("%s\n", str);
+    printf("\n");
+    printf("%s\n", "Welcome to my Morse Code Translator!");
+    printf("%s\n", "Please enter a string to translate:");
+
+    printf("\n");
     return 0;
 }
