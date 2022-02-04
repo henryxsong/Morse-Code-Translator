@@ -10,3 +10,7 @@ int main(){
     printf("\n");
     return 0;
 }
+
+char morse_to_char(char *morse){
+    
+}
