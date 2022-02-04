@@ -8,10 +8,12 @@ This is a simple program that translates text into Morse Code. While Morse Code 
     ```
     MacOS (via Homebrew):
     brew install gcc
-
+    ```
+    ```
     Linux:
     $ sudo apt-get install gcc
-
+    ```
+    ```
     Windows (or any OS):
     https://gcc.gnu.org/releases.html
     ```
@@ -29,9 +31,9 @@ This is a simple program that translates text into Morse Code. While Morse Code 
 4. (Optional) Recompile:
     ```
     $ make
-    
+    ```
     or
-
+    ```
     $ gcc -o Morse-Code-Translator *.c
     ```
 
