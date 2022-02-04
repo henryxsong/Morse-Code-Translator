@@ -15,7 +15,7 @@ This is a simple program that translates text into Morse Code. While Morse Code 
     ```
     ```
     Windows (or any OS):
-    https://gcc.gnu.org/releases.html
+    Download latest version: https://gcc.gnu.org/releases.html
     ```
 
 2. Clone this repository:
