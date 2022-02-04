@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+char morse_to_char(char *morse);
+
 int main(){
     printf("\n");
     printf("%s\n", "Welcome to my Morse Code Translator!");
@@ -12,5 +14,5 @@ int main(){
 }
 
 char morse_to_char(char *morse){
-    
+
 }
